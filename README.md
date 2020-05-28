@@ -40,7 +40,7 @@ if you choose 1 it's encrypting your choosed files
 
 2'yi seçersende dosyayı deşifreleyecektir.
 
-if you choose 1 it's encrypting your choosed files
+if you choose 2 it's decrypting your choosed files
 
 → Uyarı ←
 Bazı dosyaları şifrelemeybilir haberiniz olsun.
