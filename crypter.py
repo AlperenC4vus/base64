@@ -8,7 +8,7 @@ import os, sys, base64, time
 #                BASİT KODLAR İLE             #
 #                BASE64 ŞİFRELEYİCİ           #
 #                    VE ÇÖZÜCÜ                #
-#   Github > https://github.com/TheAlperencv/ #
+#   Github > https://github.com/AlperenC4vus/ #
 # ------------------------------------------- #
 ###############################################
 
